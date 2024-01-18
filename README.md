@@ -14,7 +14,7 @@ Built using **Particle Auth**, **TypeScript**, **Web3Modal**
 ## 🔑 Particle Auth
 Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc.
 
-[Demo screenshot](https://i.imgur.com/yb71b4F.png)
+![Demo screenshot](https://i.imgur.com/yb71b4F.png)
 
 ##
 
